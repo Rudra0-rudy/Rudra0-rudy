@@ -19,7 +19,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎯 Currently **focusing** on web development
+- 🎯 Currently **focusing** on AI & ML
 - 🌐 Portfolio: [rudradev-eight.vercel.app](https://rudradev-eight.vercel.app)
 - 💼 LinkedIn: [Rudra Pratap Maji](https://www.linkedin.com/in/rudra-pratap-maji-b8b91b278/)
 - ⚡ Fun fact: I love turning ideas into working projects
