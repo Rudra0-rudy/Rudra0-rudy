@@ -36,16 +36,22 @@
 
 ## 📌 Featured Projects
 
+## 📌 Featured Projects
+
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td align="center" width="50%">
+      <h3>Line_nd_Layers</h3>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br><br>
       <a href="https://github.com/Rudra0-rudy/Line_nd_Layers">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rudra0-rudy&repo=Line_nd_Layers&theme=tokyonight&hide_border=true" />
+        <img src="https://img.shields.io/badge/View%20Project-00D4FF?style=for-the-badge&logo=github&logoColor=black" />
       </a>
     </td>
-    <td width="50%" align="center">
+    <td align="center" width="50%">
+      <h3>Ashirbad Enterprise Medical</h3>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br><br>
       <a href="https://github.com/Rudra0-rudy/Ashirbad_enterprise_medical">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rudra0-rudy&repo=Ashirbad_enterprise_medical&theme=tokyonight&hide_border=true" />
+        <img src="https://img.shields.io/badge/View%20Project-00D4FF?style=for-the-badge&logo=github&logoColor=black" />
       </a>
     </td>
   </tr>
