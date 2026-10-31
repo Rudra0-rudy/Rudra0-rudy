@@ -29,41 +29,25 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vercel,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,flask,django,mongodb,postgres,sqlite,sklearn,git,github&theme=dark&perline=8" />
 </p>
 
----
-
-## 📌 Featured Projects
-
-## 📌 Featured Projects
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>Line_nd_Layers</h3>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br><br>
-      <a href="https://github.com/Rudra0-rudy/Line_nd_Layers">
-        <img src="https://img.shields.io/badge/View%20Project-00D4FF?style=for-the-badge&logo=github&logoColor=black" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <h3>Ashirbad Enterprise Medical</h3>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br><br>
-      <a href="https://github.com/Rudra0-rudy/Ashirbad_enterprise_medical">
-        <img src="https://img.shields.io/badge/View%20Project-00D4FF?style=for-the-badge&logo=github&logoColor=black" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20APIs-00D4FF?style=for-the-badge&logo=fastapi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Responsive%20Design-7C3AED?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%2FUX-FF4D8D?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-10B981?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rudra0-rudy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra0-rudy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://img.shields.io/github/followers/Rudra0-rudy?style=for-the-badge&logo=github&color=1e2327" />
+  <img src="https://img.shields.io/badge/Public%20Repos-21-00D4FF?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/github/stars/Rudra0-rudy/Line_nd_Layers?style=for-the-badge&logo=github&color=FFD700" />
 </p>
 
 <p align="center">
